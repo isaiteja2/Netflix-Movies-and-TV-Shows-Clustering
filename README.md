@@ -100,4 +100,3 @@ Here are the descriptions of each variable:
 
 * The cosine-based recommender system performed very well.
 
-Is there anything else you would like me to change?
